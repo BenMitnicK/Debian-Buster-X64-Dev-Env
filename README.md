@@ -61,7 +61,7 @@ Néanmoins une fois VirtualBox installé sous linux vous devez taper cette comma
 ```
 si vous souhaiter utiliser vos clef usb sous la VM et aller dans les options de la VM sous USB coché USB 3.0.
 
-Pour le partage de fichiers il suffit juste d'aller dans les paramètres de la VM puis a gauche ***"Shared Folders"*** ensuite le petit + a droite et pour les options cocher ***"Auto-mount"*** et bien sur aller chercher le dossier que vous voulez partager.
+Pour le partage de fichiers il suffit juste d'aller dans les paramètres de la VM puis a gauche ***"Dossiers partagés"*** ensuite le petit + a droite et pour les options cocher ***"Auto-mount"*** et bien sur aller chercher le dossier que vous voulez partager.
 
 Bon développement a tous.
 
