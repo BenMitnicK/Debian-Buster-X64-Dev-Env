@@ -9,14 +9,14 @@ It is based on the Linux Debian Buster X64 operating system.
 
 The installed SDKs are as follows:
 ```
-- PS4SDK (CTurt)
-- PS4SDK (BigBoss 5.05)
-- PS3SDK
-- PSPSDK (ALL)
-- PSPSDK (M33)
-- PSVITA
-- SWITCH (DevKitPro)
-- Xenon (Xbox360)
+* PS4SDK (CTurt)
+* PS4SDK (BigBoss 5.05)
+* PS3SDK
+* PSPSDK (ALL)
+* PSPSDK (M33)
+* PSVITA
+* SWITCH (DevKitPro)
+* Xenon (Xbox360)
 ```
 You can install the SDK for 3DS, DS, Wii, WiiU if you want by going under this [link](https://devkitpro.org/wiki/devkitPro_pacman) at the bottom of the page.
 
@@ -42,14 +42,14 @@ Elle est basé sous le système d'exploitation Linux Debian Buster X64.
 
 Les SDK installé sont les suivant:
 ```
-- PS4SDK (CTurt)
-- PS4SDK (BigBoss 5.05)
-- PS3SDK
-- PSPSDK (ALL)
-- PSPSDK (M33)
-- PSVITA
-- SWITCH (DevKitPro)
-- Xenon (Xbox360)
+* PS4SDK (CTurt)
+* PS4SDK (BigBoss 5.05)
+* PS3SDK
+* PSPSDK (ALL)
+* PSPSDK (M33)
+* PSVITA
+* SWITCH (DevKitPro)
+* Xenon (Xbox360)
 ```
 Vous pourrez installer les SDK pour la 3DS, DS, Wii, WiiU si vous le souhaitez en allant sous ce [lien](https://devkitpro.org/wiki/devkitPro_pacman) en bas de page.
 
