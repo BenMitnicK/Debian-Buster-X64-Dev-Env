@@ -65,4 +65,4 @@ Pour le partage de fichiers il suffit juste d'aller dans les paramètres de la V
 
 Bon développement a tous.
 
-Download-Téléchargement (uploading wait...)
+:+1: Download-Téléchargement :+1: (uploading wait...)
