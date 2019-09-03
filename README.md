@@ -7,7 +7,7 @@ I have prepare for you an development Virtual Machine. for you to develop on you
 
 It is based on the Linux Debian Buster X64 operating system.
 
-The installed SDKs are as follows:
+The installed SDK are as follows:
 ```
 * PS4SDK (CTurt)
 * PS4SDK (BigBoss 5.05)
@@ -65,4 +65,12 @@ Pour le partage de fichiers il suffit juste d'aller dans les paramètres de la V
 
 Bon développement a tous.
 
-:+1: Download-Téléchargement :+1: (uploading wait...)
+:+1: Download-Téléchargement :+1: (5GB)
+```
+* [Part 1](https://uptobox.com/fcnnqyfp8iqx) (1GB)
+* [Part 2](https://uptobox.com/rde9jy8xkd9w) (1GB)
+* [Part 3](https://uptobox.com/qxppcpyj5wj7) (1GB)
+* [Part 4](https://uptobox.com/yvgxt7kzsntv) (1GB)
+* [Part 5](https://uptobox.com/tip0gz19hr2d) (900MB)
+* [JDownloader](http://www.modconsoles.fr/saves/Debian-Buster-Dev_X64.dlc) (5GB)
+```
