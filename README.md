@@ -72,4 +72,4 @@ Bon développement a tous.
 * [Part 3](https://uptobox.com/qxppcpyj5wj7) (1GB)
 * [Part 4](https://uptobox.com/yvgxt7kzsntv) (1GB)
 * [Part 5](https://uptobox.com/tip0gz19hr2d) (900MB)
-* [JDownloader](http://www.modconsoles.fr/saves/Debian-Buster-Dev_X64.dlc) (1GB) (Right click and save - Clique droit puis savegarder
+* [JDownloader](http://www.modconsoles.fr/saves/Debian-Buster-Dev_X64.dlc) (1GB) (Right click and save - Clique droit puis savegarder)
