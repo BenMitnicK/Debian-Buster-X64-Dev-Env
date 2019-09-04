@@ -43,7 +43,7 @@ Elle est basé sous le système d'exploitation Linux Debian Buster X64.
 Les SDK installé sont les suivant:
 ```
 * PS4SDK (CTurt)
-* PS4SDK (BigBoss 5.05)
+* PS4SDK (BigBoss 5.05) + liborbis
 * PS3SDK
 * PSPSDK (ALL)
 * PSPSDK (M33)
