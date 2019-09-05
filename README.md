@@ -32,11 +32,11 @@ if you wish to use your usb key under the VM and go in the options of the VM und
 For file sharing just go in the settings of the VM then left ***"Shared Folders"*** then the small + right 
 and for the options check ***"Auto-mount"*** and of course go get the folder you want share.
 ```
-***Tips: If you can't boot the VM it's probably you have UEFI enable with secure boot, you must disable secure boot on your bios
-     When you disable it and you are on your linux host use this command line***
-     ```
-     sudo /sbin/vboxconfig
-     ```
+Tips: If you can't boot the VM it's probably you have UEFI enable with secure boot, you must disable secure boot on your bios
+     When you disable it and you are on your linux host use this command line
+     
+     *** sudo /sbin/vboxconfig ***
+     
      Now you can boot on the VM
 ```
 Good development to all.
@@ -70,12 +70,12 @@ si vous souhaiter utiliser vos clef usb sous la VM et aller dans les options de 
 
 Pour le partage de fichiers il suffit juste d'aller dans les paramètres de la VM puis a gauche ***"Dossiers partagés"*** ensuite le petit + a droite et pour les options cocher ***"Auto-mount"*** et bien sur aller chercher le dossier que vous voulez partager.
 ```
-***Tips: Si vous ne pouvez pas démarrer la machine virtuelle, vous avez probablement activer UEFI avec démarrage sécurisé, vous
+Tips: Si vous ne pouvez pas démarrer la machine virtuelle, vous avez probablement activer UEFI avec démarrage sécurisé, vous
       devez désactiver le démarrage sécurisé sur votre BIOS.
-      Lorsque vous le désactivez et que vous êtes sur votre hôte Linux, utilisez cette ligne de commande***
-      ```
-      sudo /sbin/vboxconfig
-      ```
+      Lorsque vous le désactivez et que vous êtes sur votre hôte Linux, utilisez cette ligne de commande
+      
+      *** sudo /sbin/vboxconfig ***
+      
       Maintenant vous pouvez démarer sur la VM
  ```
       
