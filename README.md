@@ -83,9 +83,18 @@ Bon développement a tous.
 
 :+1: Download-Téléchargement :+1: (5GB)
 
-* [Part 1](https://uptobox.com/fcnnqyfp8iqx) (1GB)
-* [Part 2](https://uptobox.com/rde9jy8xkd9w) (1GB)
-* [Part 3](https://uptobox.com/qxppcpyj5wj7) (1GB)
-* [Part 4](https://uptobox.com/yvgxt7kzsntv) (1GB)
-* [Part 5](https://uptobox.com/tip0gz19hr2d) (900MB)
-* [JDownloader](http://www.modconsoles.fr/saves/Debian-Buster-Dev_X64.dlc) (5GB) (Right click and save - Clique droit puis savegarder)
+* (Uptobox)[Part 1](https://uptobox.com/fcnnqyfp8iqx) (1GB)
+* (Uptobox)[Part 2](https://uptobox.com/rde9jy8xkd9w) (1GB)
+* (Uptobox)[Part 3](https://uptobox.com/qxppcpyj5wj7) (1GB)
+* (Uptobox)[Part 4](https://uptobox.com/yvgxt7kzsntv) (1GB)
+* (Uptobox)[Part 5](https://uptobox.com/tip0gz19hr2d) (900MB)
+* (Uptobox)[JDownloader](http://www.modconsoles.fr/saves/Debian-Buster-Dev_X64.dlc) (5GB) (Right click and save - Clique droit puis savegarder)
+
+***Coming soon***
+* (Mega)[Part 1]() (1GB)
+* (Mega)[Part 2]() (1GB)
+* (Mega)[Part 3]() (1GB)
+* (Mega)[Part 4]() (1GB)
+* (Mega)[Part 5]() (900MB)
+* (Mega)[JDownloader]() (5GB) (Right click and save - Clique droit puis savegarder)
+
