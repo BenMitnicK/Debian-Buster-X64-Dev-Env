@@ -88,13 +88,12 @@ Bon développement a tous.
 * (Uptobox)[Part 3](https://uptobox.com/qxppcpyj5wj7) (1GB)
 * (Uptobox)[Part 4](https://uptobox.com/yvgxt7kzsntv) (1GB)
 * (Uptobox)[Part 5](https://uptobox.com/tip0gz19hr2d) (900MB)
-* (Uptobox)[JDownloader](http://www.modconsoles.fr/saves/Debian-Buster-Dev_X64.dlc) (5GB) (Right click and save - Clique droit puis savegarder)
+* (Uptobox)[JDownloader](http://www.modconsoles.fr/saves/Debian-Buster-Dev_X64-UPTOBOX.dlc) (5GB) (Right click and save - Clique droit puis savegarder)
 
-***Coming soon***
-* (Mega)[Part 1]() (1GB)
-* (Mega)[Part 2]() (1GB)
-* (Mega)[Part 3]() (1GB)
-* (Mega)[Part 4]() (1GB)
-* (Mega)[Part 5]() (900MB)
-* (Mega)[JDownloader]() (5GB) (Right click and save - Clique droit puis savegarder)
+* (Mega)[Part 1](https://mega.nz/#!Y8Q2GK4J!BtgCYXSaeiYJMa80qkSq1WGqxIb-JRkYzEmlXj9Ek0E) (1GB)
+* (Mega)[Part 2](https://mega.nz/#!ttAk0YiB!AFLXqmtBqOCGNQ_ObCKASj5Zb5xIrpbWrIINd0EJMT0) (1GB)
+* (Mega)[Part 3](https://mega.nz/#!IlRyQQSZ!Ar-pxbDF7mnjzwZKJ79RijNdl0oLvBeEK0D-knt--eA) (1GB)
+* (Mega)[Part 4](https://mega.nz/#!ItYyVaJC!Sfp0pegqexCjVWAQWQAsJ0yJeB1b_8PMuvC9OmgT66I) (1GB)
+* (Mega)[Part 5](https://mega.nz/#!BxJSBSjI!93CIf9PHHYnDJQNktUFTPkv3XBhIzpe7hecZ-pGBDN0) (900MB)
+* (Mega)[JDownloader](http://www.modconsoles.fr/saves/Debian-Buster-Dev_X64-MEGA.dlc) (5GB) (Right click and save - Clique droit puis savegarder)
 
