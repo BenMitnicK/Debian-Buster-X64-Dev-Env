@@ -83,17 +83,9 @@ Bon développement a tous.
 
 :+1: Download-Téléchargement :+1: (5GB)
 
-* (Uptobox)[Part 1](https://uptobox.com/fcnnqyfp8iqx) (1GB)
-* (Uptobox)[Part 2](https://uptobox.com/rde9jy8xkd9w) (1GB)
-* (Uptobox)[Part 3](https://uptobox.com/qxppcpyj5wj7) (1GB)
-* (Uptobox)[Part 4](https://uptobox.com/yvgxt7kzsntv) (1GB)
-* (Uptobox)[Part 5](https://uptobox.com/tip0gz19hr2d) (900MB)
-* (Uptobox)[JDownloader](http://www.modconsoles.fr/saves/Debian-Buster-Dev_X64-UPTOBOX.dlc) (5GB) (Right click and save - Clique droit puis savegarder)
-
-* (Mega)[Part 1](https://mega.nz/#!Y8Q2GK4J!BtgCYXSaeiYJMa80qkSq1WGqxIb-JRkYzEmlXj9Ek0E) (1GB)
-* (Mega)[Part 2](https://mega.nz/#!ttAk0YiB!AFLXqmtBqOCGNQ_ObCKASj5Zb5xIrpbWrIINd0EJMT0) (1GB)
-* (Mega)[Part 3](https://mega.nz/#!IlRyQQSZ!Ar-pxbDF7mnjzwZKJ79RijNdl0oLvBeEK0D-knt--eA) (1GB)
-* (Mega)[Part 4](https://mega.nz/#!ItYyVaJC!Sfp0pegqexCjVWAQWQAsJ0yJeB1b_8PMuvC9OmgT66I) (1GB)
-* (Mega)[Part 5](https://mega.nz/#!BxJSBSjI!93CIf9PHHYnDJQNktUFTPkv3XBhIzpe7hecZ-pGBDN0) (900MB)
-* (Mega)[JDownloader](http://www.modconsoles.fr/saves/Debian-Buster-Dev_X64-MEGA.dlc) (5GB) (Right click and save - Clique droit puis savegarder)
+* (Mega)[Part 1](https://mega.nz/file/9ewGmBCC#BTd_tGdrhhqr0ag1pS7LhJA3x-2wwg60bPvBaVdCbu4) (1GB)
+* (Mega)[Part 2](https://mega.nz/file/AWpQCJaJ#-BQNAYoJYCbvM4L_ka8jPfiU72R6JY1UVUTK7xSa9Cg) (1GB)
+* (Mega)[Part 3](https://mega.nz/file/tDoSFZwb#2njMd3FTvdbKWycmqhegYZ56e0UXF7eM2mL2Jc_4nBI) (1GB)
+* (Mega)[Part 4](https://mega.nz/file/pDpwQbAR#zLoBkQ37IP5Raezay1xLhlRDnO85DmvCNoNfPs6nP9k) (1GB)
+* (Mega)[Part 5](https://mega.nz/file/wbxmUZBa#yO6nesMtydT0zhHCwAJV-6qSV9yGwfH0NwMf4k8R2x0) (900MB)
 
